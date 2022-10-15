@@ -1,6 +1,3 @@
-require("test")
-if true then return end
-
 local utilities = require("utilities")
 
 local tableHasValue = utilities.tableHasValue
